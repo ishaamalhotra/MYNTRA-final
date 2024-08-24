@@ -1,0 +1,2 @@
+We proposed a unified solution combining 𝘔𝘺𝘯𝘵𝘳𝘢 𝘊𝘩𝘢𝘵𝘣𝘰𝘹 𝘢𝘯𝘥 𝘊𝘰𝘭𝘭𝘦𝘤𝘵𝘴. The chatbox allows users to share products, play games, and chat casually, while Myntra Collects enables users to curate and share personalized fashion collections, discover friends' collections, and receive likes and shares. 
+These features foster a vibrant community, promote habitual app usage, and elevate the shopping experience by enabling users to share everything seamlessly within the Myntra app, eliminating the need for external links.
